@@ -1,0 +1,16 @@
+Chargement des données CSV dans les DataFrames.
+Suppression des lignes avec des valeurs manquantes dans 'Diagnosis' ou 'TreatmentCost'.
+Nettoyage et uniformisation des valeurs de la colonne 'Diagnosis'.
+Conversion des colonnes de dates au format DD/MM/YYYY.
+Remplissage des valeurs manquantes dans 'Diagnosis' par 'Inconnu'.
+Remplissage des valeurs manquantes dans 'TreatmentCost' par la moyenne.
+Remplissage des valeurs manquantes dans 'LastVisit' par la date par défaut '2024-12-31'.
+Sauvegarde des DataFrames nettoyés dans 'hospital_data_cleaned.csv' et 'additional_hospital_data_cleaned.csv'.
+Ajout de la colonne 'Age' calculée à partir de 'DOB'.
+Sauvegarde des DataFrames avec la colonne 'Age' ajoutée.
+Ajout de la colonne 'Statut' en fonction du 'Diagnosis'.
+Sauvegarde des fichiers avec la nouvelle colonne 'Statut'.
+Fusion des deux DataFrames sur la base de la colonne 'PatientID'.
+Combinaison des colonnes doublon et conservation des valeurs des colonnes principales.
+Suppression des colonnes doublons après la fusion.
+Sauvegarde du fichier fusionné dans 'fusion_hospital_data.csv'.

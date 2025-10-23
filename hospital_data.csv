@@ -1,0 +1,101 @@
+PatientID,Name,DOB,Diagnosis,LastVisit,TreatmentCost
+6853,Alexander Anderson,1978-11-26,Cardiac Issues,2024-07-22,4572.7
+2250,Christian Brock,1965-07-14,Healthy,2024-10-12,4634.01
+2238,Brian Flores,1970-05-17,Diabetes,2024-09-29,9523.12
+6559,Christopher Knapp,1955-06-19,Asthma,2024-04-25,8955.95
+6863,Pamela Green,1980-09-14,hEalthy,2024-05-01,3699.57
+1681,Angela Ramirez,1994-07-27,,2024-07-04,7385.6
+3142,Whitney Griffith MD,2001-12-29,Asthma,2024-10-06,2994.8
+1844,Roy George,1954-11-29,Diabetes,2024-01-16,4680.74
+9771,James Kennedy,1973-12-04,Diabetes,2024-08-07,230.01
+1950,Traci Shaw,1977-07-23,HyperTension,2024-09-24,3468.03
+3288,Ryan Riggs,2001-06-22,Diabetes,2024-04-16,1171.32
+5735,Michelle Cook,1981-12-28,Hypertension,2024-03-13,6686.65
+6421,Melissa Sanders,1998-10-26,AsTHma,2024-10-29,6149.72
+5206,David Rice,1997-04-01,Diabetes,2024-08-10,5634.53
+2398,Michael Hodges,1993-12-27,Asthma,2024-07-05,2697.66
+4829,Amanda Parker,1962-01-27,Cardiac Issues,2024-01-31,5486.77
+2736,Elizabeth Johnson,1947-07-02,Diabetes,2024-06-19,4245.04
+9871,Heather Thornton,1967-04-08,Cardiac Issues,2024-11-11,8751.89
+3725,Jesse Garcia,1944-09-01,,2024-10-31,9597.81
+6677,Chloe Cole,1985-10-26,Cardiac Issues,2024-10-23,1145.09
+3084,John Coleman MD,1957-11-26,Healthy,2024-07-07,3465.09
+9235,Jean Wolfe,1977-06-02,Healthy,2024-08-19,8127.45
+1043,Terry Ryan,1990-11-28,Cardiac Issues,2024-03-12,5796.85
+4784,Dana Houston,2004-03-29,Asthma,2024-03-21,1199.05
+8495,Robert Petersen,1984-03-16,Hypertension,2024-01-03,1805.95
+7595,Amy Keller,1968-09-06,Cardiac Issues,2024-09-20,7638.99
+9689,Dustin Kemp,1987-06-05,Diabetes,2024-02-29,2657.0
+3393,Alexander Moreno,1981-09-17,Healthy,2024-10-10,8565.58
+8351,Ian Ellis,1952-03-06,Diabetes,2024-09-15,1397.54
+1443,Jonathan Rice,1971-07-23,Hypertension,2024-07-28,9021.61
+2573,Melissa Parker,1957-09-29,Asthma,2024-05-17,5544.14
+4012,Melanie French,1977-08-20,Healthy,2024-10-25,8892.86
+7800,Sarah Lopez,1955-07-17,Cardiac Issues,2024-09-05,5776.72
+1609,Elizabeth Hahn,1977-02-19,Healthy,2024-10-18,8154.9
+9514,Catherine Brown,1968-05-01,Healthy,2024-03-01,2875.83
+8201,Kayla Vazquez,1956-07-10,Healthy,2024-10-06,1816.75
+8566,Ashley Jones,1976-12-25,Diabetes,2024-05-07,5193.75
+4205,Tracy Blake,1998-04-07,Cardiac Issues,2024-10-28,7014.11
+5350,Nicole Clark,2004-08-22,Hypertension,2024-07-10,6111.17
+4732,Billy Powers,1996-03-30,Diabetes,2024-02-02,4734.93
+5109,Megan Boyd,1991-11-28,Healthy,2024-09-30,1480.18
+7682,Michele Collins,1972-05-26,Hypertension,2024-10-02,510.56
+8939,Joseph Brown,1945-09-25,Asthma,2024-06-26,1871.05
+5180,Daniel Caldwell,1995-10-31,Asthma,2024-11-24,8910.89
+4603,Katie Maddox,2000-07-14,Hypertension,2024-01-26,1762.86
+4847,Diana Benjamin,1967-03-17,Cardiac Issues,2024-11-05,9471.72
+2908,Heather Lynch,1990-05-30,,2024-10-05,6867.37
+1544,Troy Miller,1958-09-22,Hypertension,2024-04-28,8691.68
+2845,Tabitha Roberts,1955-07-21,Healthy,2024-05-31,7891.36
+7356,David Decker,1983-02-06,Healthy,2024-03-25,4845.15
+7433,Karen Peters,1987-12-21,Cardiac Issues,2024-09-13,6007.56
+9556,Jonathan Perez,1981-01-17,Cardiac Issues,2024-12-08,6826.94
+2750,Michael English,1968-09-24,Hypertension,2024-06-16,4650.85
+1210,Stephanie King,1973-07-06,Cardiac Issues,2024-04-23,1774.26
+3360,Kathy Green,1965-12-04,Diabetes,2024-06-24,6938.65
+8950,Joseph Clark,1980-08-06,Asthma,2024-10-21,1683.67
+4853,Michelle Randolph,1987-05-03,Diabetes,2024-03-14,8414.14
+5029,Charles West,1950-09-09,Healthy,2024-07-22,3079.09
+5022,Jeanette Walker,2003-10-23,Hypertension,2024-06-13,1456.72
+4123,Eric Chavez,1944-11-04,Cardiac Issues,2024-04-08,6944.32
+6611,Luke Morris,1949-08-02,Cardiac Issues,2024-09-24,9179.64
+1022,William Harper,1953-01-06,Hypertension,2024-05-07,9729.45
+5755,Mrs. Tina Ayers,1975-03-18,Healthy,2024-11-13,9189.38
+4980,Tyler Carpenter,1956-08-20,Cardiac Issues,2024-11-23,3648.96
+4180,James Carter,1989-09-24,Asthma,2024-07-13,2348.58
+8180,Kyle Thomas,1975-02-02,Cardiac Issues,2024-04-20,4617.71
+2119,Lauren Hudson,1983-02-10,Diabetes,2024-08-12,2312.8
+2536,David Chaney,1964-06-29,Healthy,2024-03-19,935.05
+4576,Matthew Martinez DVM,1950-11-28,Hypertension,2024-08-21,7826.15
+7798,Austin Martinez,1981-02-23,Diabetes,2024-10-18,6046.43
+7799,Paul Heath,1988-03-06,Cardiac Issues,2024-03-14,8015.43
+9970,Carolyn Clay,1994-09-03,Healthy,2024-05-24,1857.34
+4606,Brandon Elliott,2004-08-30,Hypertension,2024-01-22,5265.87
+7209,Margaret Barton,2001-03-23,Diabetes,2024-08-06,7605.29
+3603,Brianna Perez,1956-03-18,,2024-04-09,8707.35
+1698,Michael Martinez,2000-02-17,Asthma,2024-05-07,9363.57
+8091,Elizabeth Alexander,1982-04-21,Asthma,2024-11-14,9371.66
+2309,Scott Jones,1948-11-28,Healthy,2024-11-07,1166.86
+2674,Anthony Ray,1989-07-01,Hypertension,2024-01-29,2415.57
+4551,Richard Herring,1990-06-29,Healthy,2024-07-17,4810.41
+2143,Angela Banks,1980-10-02,Diabetes,2024-01-06,9935.74
+9218,Lauren Johnson,1965-11-24,Diabetes,2024-01-20,102.11
+6771,Joshua Moran,1999-07-05,Hypertension,2024-02-27,1157.58
+3340,Diane Williams,1951-05-20,Asthma,2024-05-23,8888.33
+6497,Sandra Juarez,1970-12-10,Asthma,2024-09-20,4999.45
+8036,James Michael,1956-06-15,Hypertension,2024-01-16,9067.03
+9493,Melinda Powers DDS,1998-04-18,Diabetes,2024-01-21,6722.83
+3885,Ethan Zhang,1954-06-10,Hypertension,2024-08-21,4190.57
+5429,Michael Hernandez,1980-06-07,Diabetes,2024-10-26,691.62
+3477,Courtney Phillips,1994-03-07,Healthy,2024-09-11,3747.25
+7470,Lacey Green,1984-11-28,Diabetes,2024-11-01,3417.12
+3224,Nicholas Owens,1980-02-17,Cardiac Issues,2024-08-10,9858.98
+3865,Taylor Davis,1999-10-24,Diabetes,2024-05-29,6778.86
+7518,Joanna Boyd,1950-11-29,,2024-04-08,9972.62
+3265,Anthony Diaz,1962-10-16,Healthy,2024-01-21,4755.64
+3559,Douglas Bates,1991-06-16,Asthma,2024-11-18,234.78
+8209,Michael Johnson,1947-07-19,Diabetes,2024-08-23,5967.5
+2411,Jeremy Benson,1976-12-24,Diabetes,2024-10-25,3600.08
+6219,Zachary Poole,1960-11-24,Asthma,2024-04-03,3161.77
+8993,Charles Roman,1993-11-14,Cardiac Issues,2024-02-25,5293.43
